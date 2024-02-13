@@ -1,0 +1,230 @@
+STREAM triad of size        10000 (   100 x    100) : N_sample/avg/std_dev/min/max:   20 0.000371466 0.000410359 0.000268669 0.00211248 seconds or 0.372206 MUPD/s or  0.15186 GB/s
+STREAM triad of size        10609 (   103 x    103) : N_sample/avg/std_dev/min/max:   20 0.000271761 9.56084e-06   0.00026880.000312236 seconds or 0.383185 MUPD/s or 0.160938 GB/s
+STREAM triad of size        11236 (   106 x    106) : N_sample/avg/std_dev/min/max:   20 0.000277853 2.57821e-05 0.0002695730.000385778 seconds or 0.393215 MUPD/s or 0.169869 GB/s
+STREAM triad of size        11881 (   109 x    109) : N_sample/avg/std_dev/min/max:   20 0.000291084 8.87358e-05 0.0002697930.000667972 seconds or 0.404013 MUPD/s or 0.179382 GB/s
+STREAM triad of size        12544 (   112 x    112) : N_sample/avg/std_dev/min/max:   20 0.000270739  1.0507e-06 0.0002698380.000273425 seconds or 0.415063 MUPD/s or 0.189269 GB/s
+STREAM triad of size        13225 (   115 x    115) : N_sample/avg/std_dev/min/max:   20 0.000270995 1.43984e-06 0.0002697880.000275863 seconds or  0.42626 MUPD/s or  0.19949 GB/s
+STREAM triad of size        13924 (   118 x    118) : N_sample/avg/std_dev/min/max:   20 0.000270947 1.47833e-06 0.0002696540.000274693 seconds or 0.437598 MUPD/s or 0.210047 GB/s
+STREAM triad of size        14641 (   121 x    121) : N_sample/avg/std_dev/min/max:   20 0.000271527 1.54066e-06 0.0002705320.000277119 seconds or 0.447268 MUPD/s or 0.220056 GB/s
+STREAM triad of size        15376 (   124 x    124) : N_sample/avg/std_dev/min/max:   20 0.000272061 2.98095e-06  0.000270270.000281032 seconds or 0.458801 MUPD/s or 0.231236 GB/s
+STREAM triad of size        16129 (   127 x    127) : N_sample/avg/std_dev/min/max:   20 0.000271059 1.20768e-06 0.0002701970.000274719 seconds or 0.470028 MUPD/s or 0.242535 GB/s
+STREAM triad of size        16900 (   130 x    130) : N_sample/avg/std_dev/min/max:   20  0.00027136 2.07163e-06 0.000270096 0.00027738 seconds or  0.48131 MUPD/s or 0.254131 GB/s
+STREAM triad of size        17689 (   133 x    133) : N_sample/avg/std_dev/min/max:   20 0.000278737 2.17241e-05 0.0002702240.000350231 seconds or 0.492184 MUPD/s or 0.265779 GB/s
+STREAM triad of size        18496 (   136 x    136) : N_sample/avg/std_dev/min/max:   20 0.000271292 2.99736e-06 0.0002696450.000281784 seconds or 0.504367 MUPD/s or 0.278411 GB/s
+STREAM triad of size        19321 (   139 x    139) : N_sample/avg/std_dev/min/max:   20  0.00027117 1.29641e-06  0.000270070.000275597 seconds or 0.514682 MUPD/s or  0.29028 GB/s
+STREAM triad of size        20164 (   142 x    142) : N_sample/avg/std_dev/min/max:   20 0.000271931 3.61008e-06 0.0002700340.000286405 seconds or  0.52586 MUPD/s or 0.302895 GB/s
+STREAM triad of size        21025 (   145 x    145) : N_sample/avg/std_dev/min/max:   20 0.000271172 4.48171e-07 0.0002705710.000272715 seconds or 0.535904 MUPD/s or 0.315112 GB/s
+STREAM triad of size        21904 (   148 x    148) : N_sample/avg/std_dev/min/max:   20  0.00027059 1.07198e-06  0.000269780.000274652 seconds or 0.548595 MUPD/s or 0.329157 GB/s
+STREAM triad of size        22801 (   151 x    151) : N_sample/avg/std_dev/min/max:   20 0.000283205 5.64375e-05  0.000269720.000522936 seconds or 0.559841 MUPD/s or 0.342623 GB/s
+STREAM triad of size        24025 (   155 x    155) : N_sample/avg/std_dev/min/max:   20 0.000271517 1.68663e-06 0.000270287 0.00027604 seconds or 0.573464 MUPD/s or 0.360135 GB/s
+STREAM triad of size        25281 (   159 x    159) : N_sample/avg/std_dev/min/max:   20 0.000272465  4.1708e-06 0.0002704280.000288298 seconds or 0.587956 MUPD/s or 0.378644 GB/s
+STREAM triad of size        26569 (   163 x    163) : N_sample/avg/std_dev/min/max:   20 0.000270655 1.21907e-06 0.0002697750.000275558 seconds or 0.604207 MUPD/s or 0.398777 GB/s
+STREAM triad of size        27889 (   167 x    167) : N_sample/avg/std_dev/min/max:   20 0.000271744  1.8408e-06 0.0002703210.000276247 seconds or 0.617784 MUPD/s or 0.417622 GB/s
+STREAM triad of size        29241 (   171 x    171) : N_sample/avg/std_dev/min/max:   20 0.000271488 1.47347e-06 0.0002706150.000277042 seconds or 0.631895 MUPD/s or 0.437271 GB/s
+STREAM triad of size        30625 (   175 x    175) : N_sample/avg/std_dev/min/max:   20  0.00027109 1.20973e-06 0.0002702980.000275846 seconds or 0.647435 MUPD/s or 0.458384 GB/s
+STREAM triad of size        32041 (   179 x    179) : N_sample/avg/std_dev/min/max:   20 0.000271191  1.9554e-06 0.0002701950.000278687 seconds or 0.662484 MUPD/s or 0.479639 GB/s
+STREAM triad of size        33489 (   183 x    183) : N_sample/avg/std_dev/min/max:   20 0.000271141 5.50065e-07 0.0002702660.000272698 seconds or 0.677111 MUPD/s or 0.501062 GB/s
+STREAM triad of size        34969 (   187 x    187) : N_sample/avg/std_dev/min/max:   20 0.000277736 1.83481e-05 0.0002709820.000347072 seconds or 0.690082 MUPD/s or 0.521702 GB/s
+STREAM triad of size        36481 (   191 x    191) : N_sample/avg/std_dev/min/max:   20 0.000272259  1.1421e-06 0.0002710350.000274822 seconds or 0.704706 MUPD/s or 0.544033 GB/s
+STREAM triad of size        38025 (   195 x    195) : N_sample/avg/std_dev/min/max:   20 0.000272455  7.7068e-07 0.0002715420.000274545 seconds or 0.718122 MUPD/s or  0.56588 GB/s
+STREAM triad of size        39601 (   199 x    199) : N_sample/avg/std_dev/min/max:   20 0.000272855 1.65246e-06 0.000271506 0.00027823 seconds or 0.732949 MUPD/s or 0.589291 GB/s
+STREAM triad of size        41209 (   203 x    203) : N_sample/avg/std_dev/min/max:   20 0.000271975 7.16311e-07 0.0002712240.000274495 seconds or 0.748459 MUPD/s or 0.613736 GB/s
+STREAM triad of size        43264 (   208 x    208) : N_sample/avg/std_dev/min/max:   20 0.000271702  7.0894e-07 0.0002709550.000273866 seconds or 0.767656 MUPD/s or 0.644831 GB/s
+STREAM triad of size        45369 (   213 x    213) : N_sample/avg/std_dev/min/max:   20 0.000273229 2.09225e-06 0.0002719290.000280098 seconds or 0.783294 MUPD/s or 0.673633 GB/s
+STREAM triad of size        47524 (   218 x    218) : N_sample/avg/std_dev/min/max:   20 0.000273325 1.59857e-06 0.0002721080.000278052 seconds or 0.801152 MUPD/s or 0.705014 GB/s
+STREAM triad of size        49729 (   223 x    223) : N_sample/avg/std_dev/min/max:   20 0.000271939 7.50025e-07 0.0002711780.000274641 seconds or 0.822339 MUPD/s or 0.740105 GB/s
+STREAM triad of size        51984 (   228 x    228) : N_sample/avg/std_dev/min/max:   20  0.00027369 1.96945e-06 0.0002723770.000280011 seconds or 0.837076 MUPD/s or  0.77011 GB/s
+STREAM triad of size        54289 (   233 x    233) : N_sample/avg/std_dev/min/max:   20  0.00027321 1.82786e-06 0.000272315 0.00027982 seconds or 0.855626 MUPD/s or 0.804288 GB/s
+STREAM triad of size        56644 (   238 x    238) : N_sample/avg/std_dev/min/max:   20 0.000272996 1.40405e-06 0.0002718370.000277113 seconds or 0.875525 MUPD/s or 0.840504 GB/s
+STREAM triad of size        59049 (   243 x    243) : N_sample/avg/std_dev/min/max:   20  0.00027463 1.66434e-06 0.0002738450.000281483 seconds or 0.887365 MUPD/s or 0.869617 GB/s
+STREAM triad of size        61504 (   248 x    248) : N_sample/avg/std_dev/min/max:   20 0.000275432 3.06846e-06 0.0002739260.000286819 seconds or 0.905355 MUPD/s or 0.905355 GB/s
+STREAM triad of size        64009 (   253 x    253) : N_sample/avg/std_dev/min/max:   20 0.000275772 2.93226e-06 0.0002741780.000285728 seconds or 0.922759 MUPD/s or 0.941214 GB/s
+STREAM triad of size        67081 (   259 x    259) : N_sample/avg/std_dev/min/max:   20 0.000272987 2.25633e-06 0.0002712450.000279546 seconds or 0.954858 MUPD/s or 0.996871 GB/s
+STREAM triad of size        70225 (   265 x    265) : N_sample/avg/std_dev/min/max:   20 0.000272573 2.21198e-06 0.0002711320.000280462 seconds or 0.977382 MUPD/s or  1.04384 GB/s
+STREAM triad of size        73441 (   271 x    271) : N_sample/avg/std_dev/min/max:   20  0.00027221  1.9867e-06 0.0002711230.000280478 seconds or 0.999548 MUPD/s or  1.09151 GB/s
+STREAM triad of size        76729 (   277 x    277) : N_sample/avg/std_dev/min/max:   20 0.000273339 3.95459e-06 0.0002715930.000289878 seconds or  1.01991 MUPD/s or  1.13822 GB/s
+STREAM triad of size        80089 (   283 x    283) : N_sample/avg/std_dev/min/max:   20 0.000272678 1.97723e-06  0.000271540.000280863 seconds or  1.04221 MUPD/s or  1.18811 GB/s
+STREAM triad of size        83521 (   289 x    289) : N_sample/avg/std_dev/min/max:   20 0.000273424 2.84648e-06 0.0002714240.000280671 seconds or  1.06476 MUPD/s or  1.23938 GB/s
+STREAM triad of size        87025 (   295 x    295) : N_sample/avg/std_dev/min/max:   20 0.000285356 2.78082e-05 0.0002724580.000369692 seconds or  1.08273 MUPD/s or  1.28629 GB/s
+STREAM triad of size        90601 (   301 x    301) : N_sample/avg/std_dev/min/max:   20 0.000273241 2.38697e-06 0.0002720250.000282097 seconds or  1.10652 MUPD/s or   1.3411 GB/s
+STREAM triad of size        94864 (   308 x    308) : N_sample/avg/std_dev/min/max:   20 0.000273614   2.121e-06 0.000272014 0.00028042 seconds or   1.1323 MUPD/s or  1.40405 GB/s
+STREAM triad of size        99225 (   315 x    315) : N_sample/avg/std_dev/min/max:   20 0.000273607 2.82074e-06 0.0002717960.000281429 seconds or  1.15896 MUPD/s or  1.46956 GB/s
+STREAM triad of size       103684 (   322 x    322) : N_sample/avg/std_dev/min/max:   20 0.000274294 2.58965e-06 0.0002729260.000282694 seconds or  1.17981 MUPD/s or  1.52903 GB/s
+STREAM triad of size       108241 (   329 x    329) : N_sample/avg/std_dev/min/max:   20 0.000274013 1.72008e-06 0.0002728970.000280044 seconds or  1.20558 MUPD/s or  1.59619 GB/s
+STREAM triad of size       112896 (   336 x    336) : N_sample/avg/std_dev/min/max:   20 0.000276053 7.92732e-06 0.0002728490.000307662 seconds or  1.23145 MUPD/s or  1.66492 GB/s
+STREAM triad of size       117649 (   343 x    343) : N_sample/avg/std_dev/min/max:   20 0.000274443 2.47845e-06 0.0002732160.000284444 seconds or  1.25542 MUPD/s or  1.73247 GB/s
+STREAM triad of size       122500 (   350 x    350) : N_sample/avg/std_dev/min/max:   20 0.000274792  2.9323e-06 0.0002733960.000285688 seconds or   1.2802 MUPD/s or  1.80252 GB/s
+STREAM triad of size       128164 (   358 x    358) : N_sample/avg/std_dev/min/max:   20 0.000275217 3.25041e-06 0.0002730420.000284684 seconds or  1.31115 MUPD/s or  1.88806 GB/s
+STREAM triad of size       133956 (   366 x    366) : N_sample/avg/std_dev/min/max:   20 0.000274716 3.41171e-06  0.000272880.000288511 seconds or  1.34125 MUPD/s or  1.97432 GB/s
+STREAM triad of size       139876 (   374 x    374) : N_sample/avg/std_dev/min/max:   20 0.000275374 3.74298e-06 0.0002734060.000287352 seconds or  1.36793 MUPD/s or  2.05737 GB/s
+STREAM triad of size       145924 (   382 x    382) : N_sample/avg/std_dev/min/max:   20 0.000273964 2.58214e-06 0.0002727040.000284562 seconds or  1.40078 MUPD/s or   2.1516 GB/s
+STREAM triad of size       152100 (   390 x    390) : N_sample/avg/std_dev/min/max:   20 0.000273958 2.76855e-06 0.0002725830.000285325 seconds or  1.43076 MUPD/s or  2.24343 GB/s
+STREAM triad of size       158404 (   398 x    398) : N_sample/avg/std_dev/min/max:   20 0.000273431 2.44561e-06 0.0002722140.000283609 seconds or  1.46209 MUPD/s or  2.33934 GB/s
+STREAM triad of size       164836 (   406 x    406) : N_sample/avg/std_dev/min/max:   20 0.000273644 1.03362e-06 0.000272349 0.00027641 seconds or  1.49073 MUPD/s or  2.43288 GB/s
+STREAM triad of size       172225 (   415 x    415) : N_sample/avg/std_dev/min/max:   20 0.000275094 2.79559e-06 0.0002725210.000282791 seconds or  1.52282 MUPD/s or  2.54006 GB/s
+STREAM triad of size       179776 (   424 x    424) : N_sample/avg/std_dev/min/max:   20   0.0002746 5.54117e-07 0.0002738580.000276434 seconds or  1.54825 MUPD/s or  2.63821 GB/s
+STREAM triad of size       187489 (   433 x    433) : N_sample/avg/std_dev/min/max:   20 0.000275993 3.59524e-06 0.0002739420.000287178 seconds or  1.58063 MUPD/s or  2.75029 GB/s
+STREAM triad of size       195364 (   442 x    442) : N_sample/avg/std_dev/min/max:   20 0.000276622 4.41766e-06 0.0002741140.000294453 seconds or  1.61247 MUPD/s or  2.86374 GB/s
+STREAM triad of size       203401 (   451 x    451) : N_sample/avg/std_dev/min/max:   20 0.000276464 2.94433e-06 0.0002749680.000287272 seconds or  1.64019 MUPD/s or  2.97203 GB/s
+STREAM triad of size       212521 (   461 x    461) : N_sample/avg/std_dev/min/max:   20 0.000277315 3.71626e-06 0.0002755350.000289136 seconds or  1.67311 MUPD/s or   3.0986 GB/s
+STREAM triad of size       221841 (   471 x    471) : N_sample/avg/std_dev/min/max:   20 0.000276844 2.74447e-06 0.0002750220.000286787 seconds or  1.71259 MUPD/s or  3.24022 GB/s
+STREAM triad of size       231361 (   481 x    481) : N_sample/avg/std_dev/min/max:   20 0.000281445 3.50687e-06 0.0002798240.000294977 seconds or  1.71894 MUPD/s or  3.32099 GB/s
+STREAM triad of size       241081 (   491 x    491) : N_sample/avg/std_dev/min/max:   20 0.000277962 4.18158e-06 0.0002752830.000289775 seconds or  1.78362 MUPD/s or   3.5173 GB/s
+STREAM triad of size       251001 (   501 x    501) : N_sample/avg/std_dev/min/max:   20 0.000277183 3.60872e-06 0.0002751310.000290961 seconds or  1.82095 MUPD/s or  3.66376 GB/s
+STREAM triad of size       262144 (   512 x    512) : N_sample/avg/std_dev/min/max:   20 0.000272849 4.29124e-06 0.0002703340.000285406 seconds or  1.89396 MUPD/s or  3.89397 GB/s
+STREAM triad of size       273529 (   523 x    523) : N_sample/avg/std_dev/min/max:   20  0.00027523 3.67439e-06 0.0002734760.000288963 seconds or  1.91242 MUPD/s or  4.01608 GB/s
+STREAM triad of size       285156 (   534 x    534) : N_sample/avg/std_dev/min/max:   20 0.000276004 3.72636e-06 0.0002740360.000290518 seconds or  1.94865 MUPD/s or  4.17791 GB/s
+STREAM triad of size       297025 (   545 x    545) : N_sample/avg/std_dev/min/max:   20 0.000275719 2.71938e-06 0.0002734940.000284228 seconds or  1.99273 MUPD/s or  4.36009 GB/s
+STREAM triad of size       309136 (   556 x    556) : N_sample/avg/std_dev/min/max:   20 0.000276468 4.18857e-06  0.000274390.000292923 seconds or  2.02631 MUPD/s or  4.52273 GB/s
+STREAM triad of size       322624 (   568 x    568) : N_sample/avg/std_dev/min/max:   20 0.000276537 4.13974e-06 0.0002746070.000292398 seconds or  2.06841 MUPD/s or  4.71598 GB/s
+STREAM triad of size       336400 (   580 x    580) : N_sample/avg/std_dev/min/max:   20 0.000277306 3.02208e-06 0.0002754120.000287539 seconds or  2.10594 MUPD/s or  4.90262 GB/s
+STREAM triad of size       350464 (   592 x    592) : N_sample/avg/std_dev/min/max:   20 0.000276977 3.69513e-06   0.00027490.000288163 seconds or  2.15351 MUPD/s or  5.11675 GB/s
+STREAM triad of size       364816 (   604 x    604) : N_sample/avg/std_dev/min/max:   20 0.000280041 5.94151e-06  0.000276620.000295013 seconds or   2.1835 MUPD/s or   5.2928 GB/s
+STREAM triad of size       380689 (   617 x    617) : N_sample/avg/std_dev/min/max:   20 0.000281057 7.29767e-06 0.000276161 0.00030201 seconds or   2.2342 MUPD/s or  5.53189 GB/s
+STREAM triad of size       396900 (   630 x    630) : N_sample/avg/std_dev/min/max:   20 0.000278905 3.00767e-06 0.0002769240.000285626 seconds or  2.27499 MUPD/s or  5.75117 GB/s
+STREAM triad of size       413449 (   643 x    643) : N_sample/avg/std_dev/min/max:   20 0.000278314 2.91279e-06 0.0002763270.000287152 seconds or  2.32696 MUPD/s or  6.00355 GB/s
+STREAM triad of size       430336 (   656 x    656) : N_sample/avg/std_dev/min/max:   20 0.000277761 2.47746e-06 0.0002754690.000285167 seconds or  2.38139 MUPD/s or  6.26782 GB/s
+STREAM triad of size       448900 (   670 x    670) : N_sample/avg/std_dev/min/max:   20 0.000278952 3.21074e-06 0.0002768420.000289333 seconds or  2.42015 MUPD/s or  6.50537 GB/s
+STREAM triad of size       467856 (   684 x    684) : N_sample/avg/std_dev/min/max:   20 0.000292387 2.47452e-05 0.000277004  0.0003582 seconds or  2.46928 MUPD/s or   6.7757 GB/s
+STREAM triad of size       487204 (   698 x    698) : N_sample/avg/std_dev/min/max:   20 0.000280224 4.81867e-06 0.0002766070.000294305 seconds or  2.52343 MUPD/s or  7.06562 GB/s
+STREAM triad of size       506944 (   712 x    712) : N_sample/avg/std_dev/min/max:   20 0.000459343 6.00281e-06 0.0004556570.000478177 seconds or  1.56258 MUPD/s or  4.46272 GB/s
+STREAM triad of size       528529 (   727 x    727) : N_sample/avg/std_dev/min/max:   20  0.00027723 4.81693e-06 0.0002746010.000296023 seconds or  2.64748 MUPD/s or  7.72006 GB/s
+STREAM triad of size       550564 (   742 x    742) : N_sample/avg/std_dev/min/max:   20 0.000277836  4.0514e-06 0.0002753350.000289868 seconds or   2.6949 MUPD/s or  8.02003 GB/s
+STREAM triad of size       573049 (   757 x    757) : N_sample/avg/std_dev/min/max:   20 0.000279046 4.42656e-06 0.0002768970.000293371 seconds or  2.73387 MUPD/s or  8.30003 GB/s
+STREAM triad of size       597529 (   773 x    773) : N_sample/avg/std_dev/min/max:   20  0.00027762 4.43453e-06 0.0002743760.000290798 seconds or  2.81731 MUPD/s or  8.73365 GB/s
+STREAM triad of size       622521 (   789 x    789) : N_sample/avg/std_dev/min/max:   20 0.000279011 9.27845e-06 0.0002751970.000316981 seconds or  2.86704 MUPD/s or   9.0713 GB/s
+STREAM triad of size       648025 (   805 x    805) : N_sample/avg/std_dev/min/max:   20 0.000280889  7.4571e-06 0.0002761970.000305152 seconds or  2.91459 MUPD/s or  9.40828 GB/s
+STREAM triad of size       675684 (   822 x    822) : N_sample/avg/std_dev/min/max:   20 0.000281954  6.9142e-06 0.000276271 0.00030079 seconds or  2.97534 MUPD/s or  9.80671 GB/s
+STREAM triad of size       703921 (   839 x    839) : N_sample/avg/std_dev/min/max:   20 0.000281334 8.27493e-06 0.0002764630.000304833 seconds or  3.03477 MUPD/s or   10.209 GB/s
+STREAM triad of size       732736 (   856 x    856) : N_sample/avg/std_dev/min/max:   20 0.000281087 9.88332e-06 0.0002769070.000322437 seconds or  3.09129 MUPD/s or  10.6093 GB/s
+STREAM triad of size       763876 (   874 x    874) : N_sample/avg/std_dev/min/max:   20 0.000282279 8.00811e-06 0.000277629 0.00031071 seconds or  3.14809 MUPD/s or  11.0309 GB/s
+STREAM triad of size       795664 (   892 x    892) : N_sample/avg/std_dev/min/max:   20 0.000282603   5.409e-06 0.0002783380.000296657 seconds or  3.20474 MUPD/s or  11.4602 GB/s
+STREAM triad of size       828100 (   910 x    910) : N_sample/avg/std_dev/min/max:   20 0.000282613 4.81965e-06 0.0002779710.000294941 seconds or  3.27372 MUPD/s or  11.9425 GB/s
+STREAM triad of size       863041 (   929 x    929) : N_sample/avg/std_dev/min/max:   20 0.000282693 8.23077e-06  0.000279150.000316309 seconds or  3.32796 MUPD/s or  12.3933 GB/s
+STREAM triad of size       898704 (   948 x    948) : N_sample/avg/std_dev/min/max:   20  0.00028247 6.76486e-06 0.0002789530.000310258 seconds or  3.39842 MUPD/s or   12.914 GB/s
+STREAM triad of size       935089 (   967 x    967) : N_sample/avg/std_dev/min/max:   20 0.000284145  8.9509e-06 0.0002798530.000320337 seconds or  3.45539 MUPD/s or  13.3931 GB/s
+STREAM triad of size       974169 (   987 x    987) : N_sample/avg/std_dev/min/max:   20 0.000284039 5.71634e-06 0.0002806850.000304943 seconds or   3.5164 MUPD/s or  13.9109 GB/s
+STREAM triad of size      1014049 (  1007 x   1007) : N_sample/avg/std_dev/min/max:   20 0.000284035 7.06467e-06 0.0002802560.000311171 seconds or  3.59314 MUPD/s or  14.5019 GB/s
+STREAM triad of size      1056784 (  1028 x   1028) : N_sample/avg/std_dev/min/max:   20 0.000286241 6.33397e-06 0.0002822230.000311415 seconds or  3.64251 MUPD/s or  15.0071 GB/s
+STREAM triad of size      1100401 (  1049 x   1049) : N_sample/avg/std_dev/min/max:   20 0.000291563 1.00069e-05 0.0002836770.000324175 seconds or  3.69787 MUPD/s or  15.5458 GB/s
+STREAM triad of size      1144900 (  1070 x   1070) : N_sample/avg/std_dev/min/max:   20  0.00028732 5.64701e-06 0.0002840490.000309438 seconds or  3.76696 MUPD/s or  16.1527 GB/s
+STREAM triad of size      1192464 (  1092 x   1092) : N_sample/avg/std_dev/min/max:   20 0.000295033 8.26909e-06 0.0002854110.000314101 seconds or  3.82606 MUPD/s or  16.7428 GB/s
+STREAM triad of size      1240996 (  1114 x   1114) : N_sample/avg/std_dev/min/max:   20 0.000290456 7.91095e-06 0.0002867420.000321896 seconds or  3.88502 MUPD/s or  17.3427 GB/s
+STREAM triad of size      1292769 (  1137 x   1137) : N_sample/avg/std_dev/min/max:   20 0.000292945 8.01304e-06 0.0002873890.000320037 seconds or   3.9563 MUPD/s or  18.0249 GB/s
+STREAM triad of size      1345600 (  1160 x   1160) : N_sample/avg/std_dev/min/max:   20 0.000291062 8.77675e-06 0.0002864240.000316573 seconds or  4.04994 MUPD/s or  18.8241 GB/s
+STREAM triad of size      1401856 (  1184 x   1184) : N_sample/avg/std_dev/min/max:   20 0.000293218 8.09291e-06 0.0002884770.000321774 seconds or  4.10431 MUPD/s or  19.4708 GB/s
+STREAM triad of size      1459264 (  1208 x   1208) : N_sample/avg/std_dev/min/max:   20  0.00029353 7.35178e-06 0.0002900980.000322855 seconds or  4.16411 MUPD/s or  20.1543 GB/s
+STREAM triad of size      1520289 (  1233 x   1233) : N_sample/avg/std_dev/min/max:   20 0.000296508 7.64334e-06 0.0002916160.000324584 seconds or  4.22817 MUPD/s or  20.8871 GB/s
+STREAM triad of size      1582564 (  1258 x   1258) : N_sample/avg/std_dev/min/max:   20 0.000295813 7.43956e-06 0.000292097 0.00032599 seconds or  4.30679 MUPD/s or  21.7062 GB/s
+STREAM triad of size      1648656 (  1284 x   1284) : N_sample/avg/std_dev/min/max:   20 0.000295388 8.90351e-06 0.0002902320.000325161 seconds or  4.42404 MUPD/s or  22.7573 GB/s
+STREAM triad of size      1716100 (  1310 x   1310) : N_sample/avg/std_dev/min/max:   20 0.000295057 6.97094e-06 0.0002918570.000324233 seconds or  4.48851 MUPD/s or  23.5557 GB/s
+STREAM triad of size      1787569 (  1337 x   1337) : N_sample/avg/std_dev/min/max:   20 0.000296361 6.95852e-06 0.0002924840.000324082 seconds or  4.57119 MUPD/s or  24.4833 GB/s
+STREAM triad of size      1860496 (  1364 x   1364) : N_sample/avg/std_dev/min/max:   20 0.000297391 7.70526e-06 0.0002942730.000329756 seconds or  4.63516 MUPD/s or  25.3265 GB/s
+STREAM triad of size      1937664 (  1392 x   1392) : N_sample/avg/std_dev/min/max:   20 0.000297995 7.56909e-06 0.000295097 0.00032989 seconds or  4.71709 MUPD/s or  26.3025 GB/s
+STREAM triad of size      2016400 (  1420 x   1420) : N_sample/avg/std_dev/min/max:   20 0.000301563 7.84284e-06 0.0002962660.000329356 seconds or  4.79299 MUPD/s or  27.2626 GB/s
+STREAM triad of size      2099601 (  1449 x   1449) : N_sample/avg/std_dev/min/max:   20 0.000305362  8.3308e-06 0.0003018480.000340144 seconds or  4.80042 MUPD/s or  27.8617 GB/s
+STREAM triad of size      2184484 (  1478 x   1478) : N_sample/avg/std_dev/min/max:   20 0.000306086 1.18291e-05  0.000298090.000339842 seconds or  4.95824 MUPD/s or  29.3528 GB/s
+STREAM triad of size      2274064 (  1508 x   1508) : N_sample/avg/std_dev/min/max:   20 0.000303707 9.20337e-06 0.0003000430.000342413 seconds or  5.02595 MUPD/s or  30.3567 GB/s
+STREAM triad of size      2368521 (  1539 x   1539) : N_sample/avg/std_dev/min/max:   20 0.000305652 9.26862e-06 0.0003004370.000338959 seconds or  5.12254 MUPD/s or  31.5753 GB/s
+STREAM triad of size      2464900 (  1570 x   1570) : N_sample/avg/std_dev/min/max:   20 0.000305736 9.91685e-06 0.0003019660.000347435 seconds or  5.19926 MUPD/s or   32.693 GB/s
+STREAM triad of size      2566404 (  1602 x   1602) : N_sample/avg/std_dev/min/max:   20 0.000307106 8.61068e-06 0.0003034310.000343084 seconds or  5.27962 MUPD/s or   33.874 GB/s
+STREAM triad of size      2673225 (  1635 x   1635) : N_sample/avg/std_dev/min/max:   20 0.000354209 6.22498e-05 0.0003053120.000475847 seconds or  5.35518 MUPD/s or  35.0657 GB/s
+STREAM triad of size      2782224 (  1668 x   1668) : N_sample/avg/std_dev/min/max:   20 0.000311377 1.36293e-05 0.0003067940.000368922 seconds or  5.43687 MUPD/s or  36.3183 GB/s
+STREAM triad of size      2896804 (  1702 x   1702) : N_sample/avg/std_dev/min/max:   20 0.000316309 1.26569e-05 0.0003082160.000357915 seconds or   5.5221 MUPD/s or  37.6386 GB/s
+STREAM triad of size      3017169 (  1737 x   1737) : N_sample/avg/std_dev/min/max:   20  0.00031942 1.67109e-05 0.0003102170.000374613 seconds or   5.5993 MUPD/s or  38.9487 GB/s
+STREAM triad of size      3139984 (  1772 x   1772) : N_sample/avg/std_dev/min/max:   20 0.000316445 1.14655e-05 0.0003118420.000364189 seconds or  5.68236 MUPD/s or   40.322 GB/s
+STREAM triad of size      3268864 (  1808 x   1808) : N_sample/avg/std_dev/min/max:   20 0.000315047  1.0566e-05 0.0003111870.000359578 seconds or  5.81001 MUPD/s or  42.0645 GB/s
+STREAM triad of size      3404025 (  1845 x   1845) : N_sample/avg/std_dev/min/max:   20 0.000318947 1.19288e-05 0.0003146570.000368988 seconds or  5.86352 MUPD/s or  43.3197 GB/s
+STREAM triad of size      3541924 (  1882 x   1882) : N_sample/avg/std_dev/min/max:   20 0.000325075  1.8579e-05 0.000317712 0.00040192 seconds or   5.9236 MUPD/s or  44.6402 GB/s
+STREAM triad of size      3686400 (  1920 x   1920) : N_sample/avg/std_dev/min/max:   20 0.000320058 1.17202e-05 0.0003156820.000369164 seconds or  6.08207 MUPD/s or  46.7589 GB/s
+STREAM triad of size      3837681 (  1959 x   1959) : N_sample/avg/std_dev/min/max:   20 0.000325988  1.1857e-05 0.0003217350.000375281 seconds or  6.08887 MUPD/s or  47.7611 GB/s
+STREAM triad of size      3996001 (  1999 x   1999) : N_sample/avg/std_dev/min/max:   20  0.00032859 1.09254e-05  0.00032369 0.00037303 seconds or  6.17567 MUPD/s or  49.4301 GB/s
+STREAM triad of size      4157521 (  2039 x   2039) : N_sample/avg/std_dev/min/max:   20 0.000337418 1.49156e-05 0.0003332410.000400693 seconds or  6.11869 MUPD/s or   49.953 GB/s
+STREAM triad of size      4326400 (  2080 x   2080) : N_sample/avg/std_dev/min/max:   20 0.000331107 1.50723e-05 0.0003261950.000394766 seconds or  6.37656 MUPD/s or   53.104 GB/s
+STREAM triad of size      4502884 (  2122 x   2122) : N_sample/avg/std_dev/min/max:   20 0.000336159 1.38058e-05 0.0003295210.000392812 seconds or  6.43964 MUPD/s or  54.7112 GB/s
+STREAM triad of size      4687225 (  2165 x   2165) : N_sample/avg/std_dev/min/max:   20 0.000338072 1.42722e-05 0.0003332340.000398289 seconds or  6.49693 MUPD/s or  56.3154 GB/s
+STREAM triad of size      4879681 (  2209 x   2209) : N_sample/avg/std_dev/min/max:   20 0.000339751  1.5155e-05 0.0003346990.000403642 seconds or  6.59996 MUPD/s or    58.37 GB/s
+STREAM triad of size      5080516 (  2254 x   2254) : N_sample/avg/std_dev/min/max:   20 0.000341646 1.45607e-05 0.000336711 0.00040252 seconds or  6.69417 MUPD/s or  60.4082 GB/s
+STREAM triad of size      5290000 (  2300 x   2300) : N_sample/avg/std_dev/min/max:   20 0.000345208 1.45495e-05 0.0003404410.000406572 seconds or  6.75594 MUPD/s or  62.2087 GB/s
+STREAM triad of size      5508409 (  2347 x   2347) : N_sample/avg/std_dev/min/max:   20 0.000344825 1.52351e-05 0.0003397290.000408644 seconds or  6.90845 MUPD/s or  64.9118 GB/s
+STREAM triad of size      5731236 (  2394 x   2394) : N_sample/avg/std_dev/min/max:   20 0.000347595 1.54203e-05 0.0003416690.000411826 seconds or  7.00678 MUPD/s or   67.153 GB/s
+STREAM triad of size      5963364 (  2442 x   2442) : N_sample/avg/std_dev/min/max:   20 0.000353006 1.51746e-05 0.0003481670.000416927 seconds or  7.01387 MUPD/s or  68.5675 GB/s
+STREAM triad of size      6205081 (  2491 x   2491) : N_sample/avg/std_dev/min/max:   20 0.000359609  1.5989e-05 0.0003517580.000422839 seconds or  7.08158 MUPD/s or  70.6175 GB/s
+STREAM triad of size      6456681 (  2541 x   2541) : N_sample/avg/std_dev/min/max:   20 0.000362539 2.06843e-05   0.00035620.000450222 seconds or  7.13363 MUPD/s or  72.5633 GB/s
+STREAM triad of size      6718464 (  2592 x   2592) : N_sample/avg/std_dev/min/max:   20 0.000364653 2.12466e-05 0.0003562490.000451046 seconds or   7.2758 MUPD/s or  75.4937 GB/s
+STREAM triad of size      6990736 (  2644 x   2644) : N_sample/avg/std_dev/min/max:   20 0.000368933 2.08517e-05  0.000362770.000457227 seconds or  7.28836 MUPD/s or  77.1401 GB/s
+STREAM triad of size      7273809 (  2697 x   2697) : N_sample/avg/std_dev/min/max:   20 0.000373744  2.1385e-05 0.0003654370.000460981 seconds or   7.3802 MUPD/s or  79.6766 GB/s
+STREAM triad of size      7568001 (  2751 x   2751) : N_sample/avg/std_dev/min/max:   20 0.000376832 2.09466e-05 0.0003697230.000464053 seconds or  7.44071 MUPD/s or  81.9371 GB/s
+STREAM triad of size      7879249 (  2807 x   2807) : N_sample/avg/std_dev/min/max:   20 0.000386334 2.29098e-05  0.000378490.000482659 seconds or  7.41632 MUPD/s or  83.3298 GB/s
+STREAM triad of size      8202496 (  2864 x   2864) : N_sample/avg/std_dev/min/max:   20 0.000381949 2.12498e-05 0.0003742120.000470088 seconds or  7.65342 MUPD/s or  87.7388 GB/s
+STREAM triad of size      8538084 (  2922 x   2922) : N_sample/avg/std_dev/min/max:   20 0.000388682  2.1068e-05 0.0003811070.000476845 seconds or  7.66714 MUPD/s or  89.6749 GB/s
+STREAM triad of size      8886361 (  2981 x   2981) : N_sample/avg/std_dev/min/max:   20 0.000392707 2.10012e-05 0.0003851270.000479649 seconds or  7.74031 MUPD/s or  92.3574 GB/s
+STREAM triad of size      9247681 (  3041 x   3041) : N_sample/avg/std_dev/min/max:   20 0.000409191 2.24029e-05   0.00040160.000503289 seconds or  7.57221 MUPD/s or   92.169 GB/s
+STREAM triad of size      9622404 (  3102 x   3102) : N_sample/avg/std_dev/min/max:   20 0.000401023 2.14788e-05 0.000393096 0.00049062 seconds or   7.8912 MUPD/s or  97.9772 GB/s
+STREAM triad of size     10017225 (  3165 x   3165) : N_sample/avg/std_dev/min/max:   20 0.000405342 2.11629e-05 0.0003987590.000494553 seconds or  7.93712 MUPD/s or  100.547 GB/s
+STREAM triad of size     10426441 (  3229 x   3229) : N_sample/avg/std_dev/min/max:   20 0.000413335 2.06602e-05 0.0004038520.000496568 seconds or  7.99551 MUPD/s or  103.334 GB/s
+STREAM triad of size     10850436 (  3294 x   3294) : N_sample/avg/std_dev/min/max:   20 0.000417268 2.32563e-05 0.0004096810.000514873 seconds or  8.04041 MUPD/s or  106.005 GB/s
+STREAM triad of size     11289600 (  3360 x   3360) : N_sample/avg/std_dev/min/max:   20 0.000427605 3.02532e-05 0.0004138730.000551459 seconds or  8.11843 MUPD/s or  109.177 GB/s
+STREAM triad of size     11751184 (  3428 x   3428) : N_sample/avg/std_dev/min/max:   20 0.000432978 3.17065e-05 0.000422198 0.00056555 seconds or  8.11941 MUPD/s or  111.398 GB/s
+STREAM triad of size     12229009 (  3497 x   3497) : N_sample/avg/std_dev/min/max:   20 0.000443617 3.23582e-05 0.000433249 0.00057916 seconds or  8.07157 MUPD/s or   112.97 GB/s
+STREAM triad of size     12723489 (  3567 x   3567) : N_sample/avg/std_dev/min/max:   20 0.000453641 3.22169e-05 0.0004452220.000590425 seconds or  8.01173 MUPD/s or  114.376 GB/s
+STREAM triad of size     13242321 (  3639 x   3639) : N_sample/avg/std_dev/min/max:   20 0.000449237 3.13342e-05 0.0004394290.000581816 seconds or   8.2812 MUPD/s or  120.607 GB/s
+STREAM triad of size     13778944 (  3712 x   3712) : N_sample/avg/std_dev/min/max:   20 0.000447802 3.20569e-05 0.0004391610.000583861 seconds or  8.45247 MUPD/s or   125.57 GB/s
+STREAM triad of size     14341369 (  3787 x   3787) : N_sample/avg/std_dev/min/max:   20 0.000463417  3.1426e-05 0.0004531310.000596378 seconds or  8.35742 MUPD/s or  126.665 GB/s
+STREAM triad of size     14922769 (  3863 x   3863) : N_sample/avg/std_dev/min/max:   20 0.000470989 3.31259e-05 0.0004609250.000611046 seconds or  8.38097 MUPD/s or   129.57 GB/s
+STREAM triad of size     15531481 (  3941 x   3941) : N_sample/avg/std_dev/min/max:   20 0.000480378 3.27216e-05 0.0004700160.000618289 seconds or  8.38483 MUPD/s or  132.246 GB/s
+STREAM triad of size     16160400 (  4020 x   4020) : N_sample/avg/std_dev/min/max:   20 0.000484875 3.23538e-05 0.0004758330.000622084 seconds or  8.44834 MUPD/s or  135.917 GB/s
+STREAM triad of size     16818201 (  4101 x   4101) : N_sample/avg/std_dev/min/max:   20 0.000493343 3.20864e-05 0.0004838140.000629345 seconds or   8.4764 MUPD/s or  139.115 GB/s
+STREAM triad of size     17505856 (  4184 x   4184) : N_sample/avg/std_dev/min/max:   20 0.000502613 3.39953e-05 0.0004933030.000646819 seconds or   8.4816 MUPD/s or  142.016 GB/s
+STREAM triad of size     18215824 (  4268 x   4268) : N_sample/avg/std_dev/min/max:   20 0.000516153 3.68814e-05 0.000502838 0.00064751 seconds or  8.48782 MUPD/s or  144.972 GB/s
+STREAM triad of size     18957316 (  4354 x   4354) : N_sample/avg/std_dev/min/max:   20 0.000520991 3.30437e-05 0.0005117710.000661158 seconds or  8.50771 MUPD/s or  148.238 GB/s
+STREAM triad of size     19731364 (  4442 x   4442) : N_sample/avg/std_dev/min/max:   20 0.000533045 3.19924e-05 0.0005217060.000666177 seconds or  8.51437 MUPD/s or  151.352 GB/s
+STREAM triad of size     20529961 (  4531 x   4531) : N_sample/avg/std_dev/min/max:   20 0.000541613 3.21473e-05 0.0005324940.000677971 seconds or  8.50902 MUPD/s or  154.285 GB/s
+STREAM triad of size     21362884 (  4622 x   4622) : N_sample/avg/std_dev/min/max:   20 0.000555423 3.14327e-05 0.0005463190.000688698 seconds or  8.46027 MUPD/s or  156.481 GB/s
+STREAM triad of size     22231225 (  4715 x   4715) : N_sample/avg/std_dev/min/max:   20 0.000565316 3.20638e-05  0.000556270.000701076 seconds or   8.4761 MUPD/s or  159.927 GB/s
+STREAM triad of size     23136100 (  4810 x   4810) : N_sample/avg/std_dev/min/max:   20 0.000581596  3.4125e-05  0.000569570.000721827 seconds or  8.44496 MUPD/s or  162.549 GB/s
+STREAM triad of size     24078649 (  4907 x   4907) : N_sample/avg/std_dev/min/max:   20 0.000590802 3.20276e-05  0.000581570.000726332 seconds or  8.43751 MUPD/s or  165.679 GB/s
+STREAM triad of size     25060036 (  5006 x   5006) : N_sample/avg/std_dev/min/max:   20 0.000610578 6.37506e-05  0.000595120.000881356 seconds or  8.41175 MUPD/s or  168.504 GB/s
+STREAM triad of size     26081449 (  5107 x   5107) : N_sample/avg/std_dev/min/max:   20  0.00066192 6.19416e-05 0.0006440270.000921388 seconds or  7.92979 MUPD/s or  162.053 GB/s
+STREAM triad of size     27144100 (  5210 x   5210) : N_sample/avg/std_dev/min/max:   20 0.000640837  7.1864e-05 0.0006217890.000945803 seconds or  8.37905 MUPD/s or  174.686 GB/s
+STREAM triad of size     28249225 (  5315 x   5315) : N_sample/avg/std_dev/min/max:   20 0.000655243 6.38099e-05 0.0006384780.000925953 seconds or  8.32448 MUPD/s or  177.045 GB/s
+STREAM triad of size     29398084 (  5422 x   5422) : N_sample/avg/std_dev/min/max:   20 0.000693913 8.78119e-05 0.0006545690.000936799 seconds or  8.28331 MUPD/s or  179.715 GB/s
+STREAM triad of size     30591961 (  5531 x   5531) : N_sample/avg/std_dev/min/max:   20 0.000686502 6.20242e-05 0.0006671560.000945358 seconds or  8.29041 MUPD/s or  183.483 GB/s
+STREAM triad of size     31832164 (  5642 x   5642) : N_sample/avg/std_dev/min/max:   20 0.000709945 6.18858e-05 0.0006857440.000966738 seconds or  8.22756 MUPD/s or  185.745 GB/s
+STREAM triad of size     33120025 (  5755 x   5755) : N_sample/avg/std_dev/min/max:   20 0.000728138 5.99682e-05  0.000705750.000979515 seconds or  8.15445 MUPD/s or  187.781 GB/s
+STREAM triad of size     34468641 (  5871 x   5871) : N_sample/avg/std_dev/min/max:   20 0.000744268 6.69187e-05 0.000724032 0.00102689 seconds or  8.10876 MUPD/s or  190.491 GB/s
+STREAM triad of size     35868121 (  5989 x   5989) : N_sample/avg/std_dev/min/max:   20 0.000762122 5.79707e-05  0.00074422 0.00100631 seconds or  8.04735 MUPD/s or  192.847 GB/s
+STREAM triad of size     37319881 (  6109 x   6109) : N_sample/avg/std_dev/min/max:   20 0.000784974 6.07365e-05 0.000762331 0.00103493 seconds or  8.01358 MUPD/s or  195.884 GB/s
+STREAM triad of size     38837824 (  6232 x   6232) : N_sample/avg/std_dev/min/max:   20 0.000792559 6.20854e-05 0.000776798 0.00105628 seconds or  8.02268 MUPD/s or  200.053 GB/s
+STREAM triad of size     40411449 (  6357 x   6357) : N_sample/avg/std_dev/min/max:   20 0.000818105 6.70821e-05 0.000800362 0.00110297 seconds or  7.94266 MUPD/s or  202.029 GB/s
+STREAM triad of size     42055225 (  6485 x   6485) : N_sample/avg/std_dev/min/max:   20 0.000838063 6.22425e-05 0.000821727 0.00110232 seconds or  7.89192 MUPD/s or  204.779 GB/s
+STREAM triad of size     43758225 (  6615 x   6615) : N_sample/avg/std_dev/min/max:   20 0.000872378 7.96185e-05 0.000843274 0.00112759 seconds or  7.84443 MUPD/s or  207.626 GB/s
+STREAM triad of size     45535504 (  6748 x   6748) : N_sample/avg/std_dev/min/max:   20 0.000883091 6.25924e-05 0.000865563 0.00114809 seconds or  7.79608 MUPD/s or  210.494 GB/s
+STREAM triad of size     47375689 (  6883 x   6883) : N_sample/avg/std_dev/min/max:   20 0.000905893 6.18145e-05 0.000888545 0.00116813 seconds or  7.74637 MUPD/s or  213.335 GB/s
+STREAM triad of size     49294441 (  7021 x   7021) : N_sample/avg/std_dev/min/max:   20 0.000953723 6.12839e-05 0.000935113 0.00121362 seconds or  7.50818 MUPD/s or   210.92 GB/s
+STREAM triad of size     51294244 (  7162 x   7162) : N_sample/avg/std_dev/min/max:   20 0.000990239 6.11914e-05 0.000972862 0.00124985 seconds or  7.36178 MUPD/s or  210.959 GB/s
+STREAM triad of size     53377636 (  7306 x   7306) : N_sample/avg/std_dev/min/max:   20 0.000981832 6.15625e-05 0.000965199 0.00124306 seconds or  7.56942 MUPD/s or  221.269 GB/s
+STREAM triad of size     55547209 (  7453 x   7453) : N_sample/avg/std_dev/min/max:   20   0.0010104 6.36477e-05 0.000992861 0.00128027 seconds or  7.50659 MUPD/s or  223.847 GB/s
+STREAM triad of size     57805609 (  7603 x   7603) : N_sample/avg/std_dev/min/max:   20  0.00103916  6.1614e-05  0.00102082 0.00129977 seconds or  7.44795 MUPD/s or  226.567 GB/s
+STREAM triad of size     60155536 (  7756 x   7756) : N_sample/avg/std_dev/min/max:   20  0.00106768 6.33459e-05  0.00105042 0.00133648 seconds or  7.38373 MUPD/s or  229.132 GB/s
+STREAM triad of size     62599744 (  7912 x   7912) : N_sample/avg/std_dev/min/max:   20  0.00110359   7.648e-05  0.00108366 0.00142812 seconds or  7.30117 MUPD/s or  231.126 GB/s
+STREAM triad of size     65141041 (  8071 x   8071) : N_sample/avg/std_dev/min/max:   20  0.00115239 7.20117e-05  0.00111454 0.00139413 seconds or  7.24154 MUPD/s or  233.844 GB/s
+STREAM triad of size     67782289 (  8233 x   8233) : N_sample/avg/std_dev/min/max:   20   0.0011654 6.06174e-05  0.00114739  0.0014222 seconds or  7.17541 MUPD/s or  236.358 GB/s
+STREAM triad of size     70526404 (  8398 x   8398) : N_sample/avg/std_dev/min/max:   20  0.00119967 6.25387e-05  0.00118217 0.00146496 seconds or  7.10386 MUPD/s or   238.69 GB/s
+STREAM triad of size     73376356 (  8566 x   8566) : N_sample/avg/std_dev/min/max:   20  0.00123793 6.57862e-05  0.00121954 0.00151717 seconds or  7.02395 MUPD/s or  240.725 GB/s
+STREAM triad of size     76352644 (  8738 x   8738) : N_sample/avg/std_dev/min/max:   20  0.00127679 8.12925e-05  0.00125417 0.00162181 seconds or  6.96714 MUPD/s or  243.571 GB/s
+STREAM triad of size     79441569 (  8913 x   8913) : N_sample/avg/std_dev/min/max:   20  0.00131344 6.11035e-05  0.00129633 0.00157219 seconds or  6.87555 MUPD/s or  245.182 GB/s
+STREAM triad of size     82664464 (  9092 x   9092) : N_sample/avg/std_dev/min/max:   20  0.00135315 6.50579e-05  0.00133392 0.00162912 seconds or  6.81601 MUPD/s or  247.939 GB/s
+STREAM triad of size     86007076 (  9274 x   9274) : N_sample/avg/std_dev/min/max:   20  0.00139519 6.31874e-05  0.00137843 0.00166301 seconds or  6.72795 MUPD/s or  249.634 GB/s
+STREAM triad of size     89491600 (  9460 x   9460) : N_sample/avg/std_dev/min/max:   20  0.00143763  5.9651e-05   0.0014198 0.00169048 seconds or  6.66289 MUPD/s or  252.177 GB/s
+STREAM triad of size     93122500 (  9650 x   9650) : N_sample/avg/std_dev/min/max:   20  0.00148819 6.16087e-05  0.00146892 0.00174632 seconds or  6.56945 MUPD/s or  253.633 GB/s
+STREAM triad of size     96904336 (  9844 x   9844) : N_sample/avg/std_dev/min/max:   20  0.00153443 6.13216e-05  0.00151798 0.00179472 seconds or  6.48492 MUPD/s or  255.402 GB/s
+STREAM triad of size    100821681 ( 10041 x  10041) : N_sample/avg/std_dev/min/max:   20   0.0015843 6.14353e-05  0.00156625 0.00184494 seconds or  6.41085 MUPD/s or  257.536 GB/s
+STREAM triad of size    104898564 ( 10242 x  10242) : N_sample/avg/std_dev/min/max:   20  0.00163307 6.32563e-05  0.00161653 0.00190167 seconds or  6.33579 MUPD/s or  259.615 GB/s
+STREAM triad of size    109139809 ( 10447 x  10447) : N_sample/avg/std_dev/min/max:   20  0.00169071 6.16193e-05  0.00167341 0.00195221 seconds or  6.24292 MUPD/s or  260.929 GB/s
+STREAM triad of size    113550336 ( 10656 x  10656) : N_sample/avg/std_dev/min/max:   20   0.0017396 6.10715e-05  0.00172223 0.00199884 seconds or  6.18731 MUPD/s or  263.778 GB/s
+STREAM triad of size    118156900 ( 10870 x  10870) : N_sample/avg/std_dev/min/max:   20  0.00181211 6.58803e-05  0.00178524 0.00207058 seconds or  6.08881 MUPD/s or   264.79 GB/s
+STREAM triad of size    122943744 ( 11088 x  11088) : N_sample/avg/std_dev/min/max:   20  0.00185821 6.17484e-05  0.00184034 0.00212036 seconds or  6.02496 MUPD/s or  267.267 GB/s
+STREAM triad of size    127916100 ( 11310 x  11310) : N_sample/avg/std_dev/min/max:   20  0.00192631 6.14966e-05  0.00190866  0.0021871 seconds or  5.92561 MUPD/s or  268.122 GB/s
+STREAM triad of size    133102369 ( 11537 x  11537) : N_sample/avg/std_dev/min/max:   20  0.00199218  6.1221e-05  0.00197509 0.00225217 seconds or  5.84127 MUPD/s or   269.61 GB/s
+STREAM triad of size    138485824 ( 11768 x  11768) : N_sample/avg/std_dev/min/max:   20  0.00208031 6.21865e-05  0.00206364 0.00234445 seconds or  5.70255 MUPD/s or  268.476 GB/s
